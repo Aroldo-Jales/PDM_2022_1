@@ -14,6 +14,8 @@ void main() {
   try {
     ContaCorrente c1 = new ContaCorrente("1", 500); // 50
     ContaCorrente c2 = new ContaCorrente("2", 1000); // 100
+    ContaCorrente c3 = new ContaCorrente.inativa("3", 0);
+
     SeguroDeVida s1 = new SeguroDeVida(); // 50
     SeguroDeVida s2 = new SeguroDeVida(); // 50
 
