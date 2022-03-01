@@ -1,10 +1,5 @@
 [Link para o vídeo](https://youtu.be/zBaZJtyluIM)
 
-<link href="style.css" rel="stylesheet"></link>
-
-<h2> ATV03-25-02-22-PDM </h2>
-<br>
-
 > <h2>Métodos de Extensão</h2> Funcionalidade introduzida a partir da versão 2.7
 
 <br>
