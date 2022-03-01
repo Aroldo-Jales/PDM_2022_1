@@ -1,4 +1,5 @@
 [Link para o vídeo](https://youtu.be/zBaZJtyluIM)
+
 <br>
 
 > <h2>Métodos de Extensão</h2> Funcionalidade introduzida a partir da versão 2.7
