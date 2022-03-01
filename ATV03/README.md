@@ -207,8 +207,8 @@ import 'extensions.dart';
 import 'extensions2.dart' as ext2;
 
 void main() {
-  print(StringExt('42').parseInt);
-  print(ext2.StringExt('42').parseInt);
+  print(StringExt('42').parseInt); // 42
+  print(ext2.StringExt('42').parseInt); // 42
 }
 ```
 
